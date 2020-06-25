@@ -1,0 +1,24 @@
+table{
+background-color : #7391ff;
+color : black;
+margin-left : 200px;
+margin-top : 50px;
+	height: 500px;
+	width:800px;
+}
+
+
+
+tr.flrow{
+background-color : #1c0000;
+color : floralwhite;
+text-allign : center;
+}
+td.a{
+text-align : center;
+}
+
+
+body{
+background-color:#ffe2c4;
+}
